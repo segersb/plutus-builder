@@ -1,0 +1,9 @@
+cabal-version: 2.4
+
+name: placeholder
+version: 1.0.0
+build-type: Simple
+
+executable placeholder
+  main-is: Placeholder.hs
+  build-depends: base
